@@ -337,6 +337,10 @@ nav .link{
         flex-direction: column;
         text-align: center;
     }
+
+    .feature-left img{
+        width: 300px;
+    }
     
     /* footer */
     footer{
